@@ -1,0 +1,8 @@
+all: mk_dir create_file
+
+mk_dir:
+	mkdir -p a1
+
+create_file:
+	touch e1
+
