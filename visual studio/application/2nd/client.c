@@ -1,4 +1,3 @@
-
 #include<unistd.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -9,7 +8,7 @@
 
 #define SERVER_IP "127.0.0.1"
 #define MAX 80
-#define PORT 8080
+#define PORT 8888
 #define SA struct sockaddr
 void func(int sockfd)
 {
