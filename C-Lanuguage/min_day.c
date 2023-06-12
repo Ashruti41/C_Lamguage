@@ -1,3 +1,4 @@
+// min converts into days and years.
 #include <stdio.h>
 
 int main()
